@@ -1,1 +1,1 @@
-customTools = [".muse/staticcheck.sh"]
+customTools = [ "http://docs.muse.dev/scripts/check-common-comments.sh" ]
